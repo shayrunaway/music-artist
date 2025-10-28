@@ -1,3 +1,3 @@
 Name: Shay Hart
 Project: Music Artist Site
-Netlify URL: (paste your repo link here)
+Netlify URL: https://shays-music-artist.netlify.app/
